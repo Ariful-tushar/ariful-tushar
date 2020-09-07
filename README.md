@@ -36,7 +36,7 @@ These are my personal projects and did when learning things
 
 - [Forkify Recipe App, (currently just search Pizza)](https://happy-nightingale-1011ca.netlify.app/)
 
-<img src = "./screenshots/ss1_border_1.png" width ="200">
+<img src = "https://user-images.githubusercontent.com/65133184/92372097-45c3e380-f11e-11ea-979b-908fed369844.png" height = "300" width = "300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = "https://user-images.githubusercontent.com/65133184/92372095-452b4d00-f11e-11ea-85a1-9e8edcbf1fae.png" height = "300" width = "300">
 
 - [Budget Web Application using JavaScript](https://ariful-tushar.github.io/ariful-tushar-budget-web-APP/)
 - [Natours, Travel related website using Sass](https://thirsty-bhaskara-463714.netlify.app/)
