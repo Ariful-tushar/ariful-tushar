@@ -28,7 +28,7 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 - ⚡️ Fun fact: I love take images of nature, travelling, and gaming
 
 [![ariful-tushar's github stats](https://github-readme-stats.vercel.app/api?username=ariful-tushar&theme=dark&show_icons=true)](https://github.com/moshfiqrony)
-[![ariful-tushar's github stats](https://github-readme-stats.vercel.app/api/pin/?username=ariful-tushar&repo=awesome-bd-readme-profile&theme=dark)](https://github.com/Ariful-tushar)
+
 
 # My recent projects
 
