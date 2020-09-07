@@ -1,6 +1,7 @@
 # Hi there 👋
+## Welcome to my github profile
 
-I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Spacex 🔭 and I am a bit 😄 mad 😄 when I code. Connect with me here -
+I am Md. Ariful Islam. I love innovation, new challenges and alwyas try to get myself updated.
 
 [![Gmail Badge](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](arifultusharr@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariful-islam-753507125/)
