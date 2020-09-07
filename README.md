@@ -30,13 +30,18 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 [![ariful-tushar's github stats](https://github-readme-stats.vercel.app/api?username=ariful-tushar&theme=dark&show_icons=true)](https://github.com/moshfiqrony)
 
 
-# My recent projects
+# Some of my recent projects
 
 These are my personal projects and did when learning things
 
-- [Forkify Recipe App, (currently just search Pizza)](https://happy-nightingale-1011ca.netlify.app/)
+![*Forkify Recipe App, (currently just search Pizza)*](https://happy-nightingale-1011ca.netlify.app/)
+<p>
+<img src = "https://user-images.githubusercontent.com/65133184/92372097-45c3e380-f11e-11ea-979b-908fed369844.png" style="display:block; margin-left: auto; margin-right: auto;" title="caption" / height = "250" width = "300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = "https://user-images.githubusercontent.com/65133184/92372095-452b4d00-f11e-11ea-85a1-9e8edcbf1fae.png" height = "250" width = "300">
+</p>
+<div>
+  <p >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>ScreenShot<strong></p>
+  </div>
 
-<img src = "https://user-images.githubusercontent.com/65133184/92372097-45c3e380-f11e-11ea-979b-908fed369844.png" height = "300" width = "300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = "https://user-images.githubusercontent.com/65133184/92372095-452b4d00-f11e-11ea-85a1-9e8edcbf1fae.png" height = "300" width = "300">
 
 - [Budget Web Application using JavaScript](https://ariful-tushar.github.io/ariful-tushar-budget-web-APP/)
 - [Natours, Travel related website using Sass](https://thirsty-bhaskara-463714.netlify.app/)
