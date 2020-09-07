@@ -7,8 +7,6 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 [![Whats App Badge](https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white)](+8801872320494)
 [![Twitter Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/moshfiqrony/)](https://twitter.com/Tezas07)
 
-
-
 - 🏢 I'm currently working at **Travel sequel.com**
 - 🚀 I use daily:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
@@ -24,20 +22,19 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 
 - 🌱 Learning all about:
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
-  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
+  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js)
   ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=plastic&logo=Graphql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 - ⚡️ Fun fact: I love take images of nature, travelling, and gaming
 
-[![ariful-tushar's github stats](https://github-readme-stats.vercel.app/api?username=moshfiqrony&theme=dark&show_icons=true)](https://github.com/moshfiqrony)
-[![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api/pin/?username=moshfiqrony&repo=awesome-bd-readme-profile&theme=dark)](https://github.com/Ariful-tushar)
-
+[![ariful-tushar's github stats](https://github-readme-stats.vercel.app/api?username=ariful-tushar&theme=dark&show_icons=true)](https://github.com/moshfiqrony)
+[![ariful-tushar's github stats](https://github-readme-stats.vercel.app/api/pin/?username=ariful-tushar&repo=awesome-bd-readme-profile&theme=dark)](https://github.com/Ariful-tushar)
 
 # My recent projects
+
 These are my personal projects and did when learning things
 
 - [Forkify Recipe App, (currently just search Pizza)](https://happy-nightingale-1011ca.netlify.app/)
 - [Budget Web Application using JavaScript](https://ariful-tushar.github.io/ariful-tushar-budget-web-APP/)
 - [Natours, Travel related website using Sass](https://thirsty-bhaskara-463714.netlify.app/)
 - [Monster search fun app using Reac](https://ariful-tushar.github.io/ariful-tushar-react-monster-project/)
-
