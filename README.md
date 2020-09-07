@@ -35,8 +35,8 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 These are my personal projects and did when learning things
 
 - [Forkify Recipe App, (currently just search Pizza)](https://happy-nightingale-1011ca.netlify.app/)
-<img src = "https://user-images.githubusercontent.com/65133184/92364262-a3ebc900-f114-11ea-89f8-4294684fb59e.PNG" width = "500" heigh = "500">
-![ss2_border](/screenshot/ss2_border.png)
+![ss1_border](/screenshots/ss1_border_1.png = 250*250)
+![ss2_border](/screenshots/ss2_border.png = 250*250)
 
 - [Budget Web Application using JavaScript](https://ariful-tushar.github.io/ariful-tushar-budget-web-APP/)
 - [Natours, Travel related website using Sass](https://thirsty-bhaskara-463714.netlify.app/)
